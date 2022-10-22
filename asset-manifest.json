@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-card/static/css/main.d7928c05.css",
+    "main.js": "/digital-card/static/js/main.1d2c467c.js",
+    "index.html": "/digital-card/index.html",
+    "main.d7928c05.css.map": "/digital-card/static/css/main.d7928c05.css.map",
+    "main.1d2c467c.js.map": "/digital-card/static/js/main.1d2c467c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7928c05.css",
+    "static/js/main.1d2c467c.js"
+  ]
+}
