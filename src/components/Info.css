@@ -1,0 +1,27 @@
+img{
+    width:20vw;
+    height:30vh;
+    object-fit:cover;
+    margin-top: 3px;
+    border-radius: 4% 4% 0px 0px;
+}
+.img-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subtitle,h6{
+    padding: 0%;
+    margin:0%;
+}
+.subtitle{
+    color: yellow;
+    font-size: 0.5rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
