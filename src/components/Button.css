@@ -3,6 +3,7 @@
     justify-content: space-evenly;
     align-items:center;
     padding-top: 4px;
+    height:4vh;
 }
 .btn{
     font-size: 0.65rem;
